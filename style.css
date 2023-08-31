@@ -1,0 +1,8 @@
+table,th,td{
+    border:2px solid black;
+    border-collapse: collapse;
+}
+td{color:black;
+background-color: grey}
+th{color:black;
+background-color: lightslategray;}
